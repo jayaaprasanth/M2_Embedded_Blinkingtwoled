@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-- The LED BLINKING using ATMEGA32 AVR micrcontroller,the lights are some of the most popular bulbs used today. The blinking light is simply a light that goes on and off in a specific pattern. The pattern can be fast or slow and the lights can be a solid color or a variety of different colors.
+- The LED BLINKING using ATMEGA328P AVR micrcontroller,the lights are some of the most popular bulbs used today. The blinking light is simply a light that goes on and off in a specific pattern. The pattern can be fast or slow and the lights can be a solid color or a variety of different colors.
 
 # SWOT ANALYSIS
 
