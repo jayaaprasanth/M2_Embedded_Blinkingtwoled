@@ -1,56 +1,61 @@
 # INTRODUCTION
 
-- The LED BLINKING using ATMEGA328P AVR micrcontroller,the lights are some of the most popular bulbs used today. The blinking light is simply a light that goes on and off in a specific pattern. The pattern can be fast or slow and the lights can be a solid color or a variety of different colors.
+- A calculator using infix expression evaluation algorithm on ATmega328p using LCD and Keypad with the AVR toolchain without the Arduino IDE.
 
 # SWOT ANALYSIS
 
 ## STRENGTH
- - Gives the user complete control over the lighting system, reduced electricity consumption , and increased sustainbility
- - LED smart lighting technology, bulbs can connect to a smart device using wireless technology.
+ - The ultimate strength of Calculators is its innovative and user-friendly products
+ - they have a huge loyal customer base all over the world.
+ - Workforce with more than 10000 people and powerful marketing has made it a market giant among tech-based businesses.
  
  ## WEEKNESS
- - Overheating can cause reduced lamp life
+ - They has many other wonderful product lines other than calculators
  
  ## OPPURTUNITY
- - scope of attracting corporate clients are high.
- - Safety will also improve because unsafe situation will be easily predicted.
+ - The tech-based market has a huge opportunities in capturing the youth market.
+ - Comparatively already one step ahead than other companies. Because since the beginning of childhood,
  
  ## TREATS
- - The major barrier is the complications involved in the setup and usage of smart bulbs
+ - other tech-product lines as there’re already many strong brands are ruling.
 
 # 4W & 1H
 
 ## WHAT
-- The pattern can be fast or slow and the lights can be a solid color or a variety of different colors.
-- The LED is the abbreviation of light emitting diode.
+- A calculator is a device that performs arithmetic operations on numbers.
+- The simplest calculators can do only addition, subtraction, multiplication, and division.
 
 ## WHO
-- you can make one using components like an inverter,  microcontroller.
+- Any one can acess this for any calculations they need .
 
 ## WHY
-- It can be used in operation theaters or offices as an indication that you are engaged in work.
+- The purpose of a calculator is to do correct calculations, and to do so efficiently
+- It is clear that a calculator should relieve the user of the need to do mental operations and of the need to rely on paper, so far as possible.
 
 ## WHEN
-- When electrical loads turn on and off in your home, this creates a change in voltage levels.
-- which may cause the LED lights to occasionally dim or flicker.
+- n 1642, the first true “calculator” was invented: one that performed calculations through a clockwork-type of mechanism.
 
 ## HOW
-- LED blinking circuit can be used as flashing beacon.
-- The Blinking LED is a passive device that converts the light energy into an electrical signal output
+- Thus, when you input numbers into a calculator, the integrated circuit converts those numbers.
  
+# components
+- Arduino Uno with the Atmel ATmega328p microcontroller.
+- 16x2 LCD
+- 4x4 Keypad
+
  # REQUIREMENTS
  
  ## HIGH LEVEL REQUIREMENTS
 | TEST ID |	DESCRIPTION |
 | ------- | ----------- |
-| H_01 |	Gives the user complete control over the lighting system, reduced electricity consumption , and increased sustainbility |
-| H_02	|  It can be used in operation theaters or offices as an indication that you are engaged in work |
-| H_03	| The Blinking LED is a passive device that converts the light energy into an electrical signal output|
+| H_01 |	The  calculator has  the  following  keys:  0..9, ., +, -, *, /,  ±, = |
+| H_02	|  In any  situation  the  calculator has  to  produce  a  correct  result  defined  by  the  well  known arithmetic  rules. |
+| H_03	| If the  calculations  is  impossible  the  calculator has  to display  information helping the  user to resolve  the  erroneous  situation |
 
 ## LOW LEVEL REQUIREMENTS
 
 | TEST ID | DESCRIPTION |
 | ------- | ----------- |
-| L_01 |	The LED is the abbreviation of light emitting diode. |
-| L_02	| LED blinking circuit can be used as flashing beacon. |
-| L_03	|Performance standardization has not yet been streamlined|
+| L_01 |	 On encountering a  division by  0 the  display  should read  "Cannot  divide  by  0" and  typing the key  “R”  should reset  the  calculator.. |
+| L_02	|  On  calculating the  square  root  value  of a  negative  operand the  display  should  read "Wrong operand" |
+| L_03	| The function that performs arithmetic operations |
