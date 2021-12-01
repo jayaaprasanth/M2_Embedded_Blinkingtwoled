@@ -11,33 +11,35 @@
 - Since LEDs use only a fraction of the energy of an incandescent light bulb there is a dramatic decrease in power costs
 
 ## WEEKNESS
--Overheating can cause reduced lamp life.
--Since this technology is relatively new, not a lot of people are aware of these bulbs
+- Overheating can cause reduced lamp life.
+- Since this technology is relatively new, not a lot of people are aware of these bulbs
 
 ## OPPURTUNITY
 - Scope of  attract corporate clients be high.
 
 ## TREADS
--The lighting industry is characterized by cut-throat competition
--Performance standardization has not yet been streamlined
+- The lighting industry is characterized by cut-throat competition
+- Performance standardization has not yet been streamlined
 
 # 4W & 1H
 
 ## WHY
--It can be used in operation theaters or offices as an indication that you are engaged in work
+- It can be used in operation theaters or offices as an indication that you are engaged in work
 
 ## WHO 
--  buyers may choose to go with the traditional options available.
+- buyers may choose to go with the traditional options available.
 
 ## WHAT
--LEDs are small, powerful lights that are used in many different applications
--It's a simple electronic circuit that gives you a visual cue if it works.The goal is to make a Light Emitting Diode (LED) blink
+- LEDs are small, powerful lights that are used in many different applications
+- It's a simple electronic circuit that gives you a visual cue if it works.The goal is to make a Light Emitting Diode (LED) blink
 
 ## WHEN
--A decade back, who would have thought that technology will enable controlling light bulbs 
+- A decade back, who would have thought that technology will enable controlling light bulbs 
 
 ## HOW
--The Blinking LED is a passive device that converts the light energy into an electrical signal output
+- The Blinking LED is a passive device that converts the light energy into an electrical signal output
+
+# REQUIREMENTS
 
 ## HIGH LEVEL REQUIREMENTS
 
